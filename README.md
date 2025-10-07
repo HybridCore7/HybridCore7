@@ -1,4 +1,4 @@
-# 🏆 My Achievements & Stats
+# 🏆 Kunal Bhardwaj - Achievements & Stats
 
 ---
 
@@ -43,7 +43,7 @@
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="150" width="150" />
   </a>
   <a href="https://www.naukri.com/code360/profile/hybridcore" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Naukri.com_logo.png" alt="Coding Ninjas / Naukri" height="150" width="150" />
+    <img align="center" src="https://img.shields.io/badge/Coding%20Profile-Naukri-blue?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Code360 Profile"/>
   </a>
 </p>
 
@@ -56,3 +56,15 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=HybridCore7&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HybridCore7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
+
+---
+
+## 💡 About Me
+
+- 👋 Hi, I’m **Kunal Bhardwaj**, a passionate Data Scientist & AI Enthusiast  
+- 🎓 Studying Data Science at SRM University  
+- 💻 Skills: Python, AI/ML, Web3, SQL, Power BI, Tableau, Generative AI  
+- 🌐 [GitHub](https://github.com/HybridCore7) | [LeetCode](https://leetcode.com/u/kunalbhardwajcristiano) | [Naukri / Code360](https://www.naukri.com/code360/profile/hybridcore)  
+
+---
+
